@@ -1,0 +1,7 @@
+C:\Users\shakti.singh\source\repos\ConsoleAppAshish\ConsoleAppAshish\bin\Debug\ConsoleAppAshish.exe.config
+C:\Users\shakti.singh\source\repos\ConsoleAppAshish\ConsoleAppAshish\bin\Debug\ConsoleAppAshish.exe
+C:\Users\shakti.singh\source\repos\ConsoleAppAshish\ConsoleAppAshish\bin\Debug\ConsoleAppAshish.pdb
+C:\Users\shakti.singh\source\repos\ConsoleAppAshish\ConsoleAppAshish\obj\Debug\ConsoleAppAshish.csprojAssemblyReference.cache
+C:\Users\shakti.singh\source\repos\ConsoleAppAshish\ConsoleAppAshish\obj\Debug\ConsoleAppAshish.csproj.CoreCompileInputs.cache
+C:\Users\shakti.singh\source\repos\ConsoleAppAshish\ConsoleAppAshish\obj\Debug\ConsoleAppAshish.exe
+C:\Users\shakti.singh\source\repos\ConsoleAppAshish\ConsoleAppAshish\obj\Debug\ConsoleAppAshish.pdb
